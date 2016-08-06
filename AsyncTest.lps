@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="9"/>
+    <BuildModes Active="Default"/>
+    <Units Count="12">
+      <Unit0>
+        <Filename Value="AsyncTest.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="80"/>
+        <CursorPos X="26" Y="109"/>
+        <UsageCount Value="35"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="uAsync.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="1"/>
+        <CursorPos X="18" Y="24"/>
+        <UsageCount Value="35"/>
+        <Loaded Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="..\..\Core\fpc\3.1.1\source\rtl\ultibo\core\winsock2.pas"/>
+        <UnitName Value="Winsock2"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="7543"/>
+        <CursorPos X="38" Y="7553"/>
+        <UsageCount Value="12"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="..\..\Core\examples\10-MultiThreading\RPi3\Thread1.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="21"/>
+        <UsageCount Value="12"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="..\..\Core\fpc\3.1.1\source\rtl\ultibo\core\threads.pas"/>
+        <UnitName Value="Threads"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1529"/>
+        <CursorPos X="20" Y="1601"/>
+        <UsageCount Value="12"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="..\..\Core\fpc\3.1.1\source\rtl\objpas\classes\classesh.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1920"/>
+        <CursorPos X="13" Y="1595"/>
+        <UsageCount Value="12"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="..\..\Core\fpc\3.1.1\source\ide\fpcalc.pas"/>
+        <UnitName Value="FPCalc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="34"/>
+        <CursorPos X="37" Y="41"/>
+        <UsageCount Value="12"/>
+      </Unit6>
+      <Unit7>
+        <Filename Value="..\..\Core\fpc\3.1.1\source\packages\fcl-base\src\syncobjs.pp"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="21"/>
+        <CursorPos X="3" Y="28"/>
+        <UsageCount Value="11"/>
+      </Unit7>
+      <Unit8>
+        <Filename Value="..\Modbus\ModbusTest.lpr"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="17"/>
+        <CursorPos X="23" Y="88"/>
+        <UsageCount Value="10"/>
+      </Unit8>
+      <Unit9>
+        <Filename Value="..\TFTP\uTFTP.pas"/>
+        <EditorIndex Value="2"/>
+        <CursorPos Y="5"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit9>
+      <Unit10>
+        <Filename Value="..\..\Core\fpc\3.1.1\source\rtl\ultibo\core\platform.pas"/>
+        <UnitName Value="Platform"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1956"/>
+        <CursorPos X="10" Y="2002"/>
+        <UsageCount Value="13"/>
+      </Unit10>
+      <Unit11>
+        <Filename Value="..\Modbus\uModbusS.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="157"/>
+        <CursorPos X="29" Y="190"/>
+        <UsageCount Value="9"/>
+      </Unit11>
+    </Units>
+    <JumpHistory Count="2" HistoryIndex="1">
+      <Position1>
+        <Filename Value="AsyncTest.lpr"/>
+        <Caret Line="23" Column="6" TopLine="4"/>
+      </Position1>
+      <Position2>
+        <Filename Value="uAsync.pas"/>
+        <Caret Line="8"/>
+      </Position2>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>
